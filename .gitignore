@@ -1,0 +1,9 @@
+*.svn
+*_cache
+*_map
+*myapp_cake_core_*
+*myapp_cake_model*
+*myapp_cake_*
+Config/bootstrap.local.php
+Config/database.php
+*.log
